@@ -3,7 +3,7 @@ package step2;
 import java.util.Scanner;
 
 //2525
-public class Main {
+public class Q2525 {
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int hour, minute;
